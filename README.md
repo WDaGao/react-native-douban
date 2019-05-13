@@ -1,37 +1,30 @@
 # react-native-douban
 
 #### 介绍
-基于react-native开发的App小项目
+- 基于react-native开发的App小项目
+
+***
 
 #### 软件架构
-软件架构说明
+- 使用react-native框架
+- 界面自己摸索的（有点丑）
 
+***
 
-#### 安装教程
+#### API接口
+- 用了豆瓣，和一些大佬提供的免费新闻，图片接口，也包括自己写的PHP接口
 
-1. xxxx
-2. xxxx
-3. xxxx
+***
+> 目前已实现的功能模块
+#### 软件截图
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0513/163151_1fcf7a64_4924053.gif "在这里输入图片标题")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0513/163316_a51152ad_4924053.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0513/165009_77397b23_4924053.gif "4h48s-ahedd.gif")
+![输入图片说明](https://s33.aconvert.com/convert/p3r68-cdx67/52ure-zwj95.gif "在这里输入图片标题")
+![输入图片说明](https://s23.aconvert.com/convert/p3r68-cdx67/htujm-7vdjh.gif "在这里输入图片标题")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0513/171340_e2fb0ae5_4924053.gif "在这里输入图片标题")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0513/171612_4dd9e3ef_4924053.gif "在这里输入图片标题")
+![输入图片说明](https://s17.aconvert.com/convert/p3r68-cdx67/ebdoi-l42wi.gif "在这里输入图片标题")
+![输入图片说明](https://s27.aconvert.com/convert/p3r68-cdx67/w5f9l-mh7d2.gif "在这里输入图片标题")
 
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+> 如果使用中发现数据加载不出来的情况，是因为api接口问题，与代码逻辑无关
