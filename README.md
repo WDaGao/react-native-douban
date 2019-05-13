@@ -29,4 +29,5 @@
 
 > - 如果使用中发现数据加载不出来的情况，是因为api接口问题，与代码逻辑无关
 > - APK地址：链接：https://pan.baidu.com/s/1vRpTSP6CvqmsT9f9I_pASQ 提取码：1odo 
+> - 若文档显示不完全可以看码云上面的文档：[码云地址](https://gitee.com/wdagao/react-native-douban)
 
