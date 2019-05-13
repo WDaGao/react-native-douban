@@ -25,6 +25,8 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0513/171340_e2fb0ae5_4924053.gif "在这里输入图片标题")
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0513/171612_4dd9e3ef_4924053.gif "在这里输入图片标题")
 ![输入图片说明](https://s17.aconvert.com/convert/p3r68-cdx67/ebdoi-l42wi.gif "在这里输入图片标题")
-![输入图片说明](https://s27.aconvert.com/convert/p3r68-cdx67/w5f9l-mh7d2.gif "在这里输入图片标题")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0513/172823_923c12fd_4924053.gif "在这里输入图片标题")
 
-> 如果使用中发现数据加载不出来的情况，是因为api接口问题，与代码逻辑无关
+> - 如果使用中发现数据加载不出来的情况，是因为api接口问题，与代码逻辑无关
+> - APK地址：链接：https://pan.baidu.com/s/1vRpTSP6CvqmsT9f9I_pASQ 提取码：1odo 
+
